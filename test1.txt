@@ -10,4 +10,8 @@ This is 9th line.
 This is sixth line.
 This is seventh line.
 >>>>>>> feature4
+<<<<<<< HEAD
 This is your line.
+=======
+this is my line.
+>>>>>>> feature5
